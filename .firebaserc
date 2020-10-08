@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fire-964cd": {
+      "hosting": {
+        "fire-app": [
+          "fire-964cd"
+        ]
+      }
+    }
+  }
+}
